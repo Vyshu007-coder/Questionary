@@ -1,0 +1,7 @@
+# Allowed email addresses, one per line.
+# Anything after a # is ignored. Capital letters don't matter.
+# Changes work immediately, nothing needs restarting.
+
+satyasaikumar0698@gmail.com
+alice@example.com
+bob@example.com

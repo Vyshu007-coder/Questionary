@@ -1,0 +1,88 @@
+[
+    {
+        "id": "L1",
+        "complexity": "low",
+        "text": "SAMPLE: Which of these is a primary color of light?",
+        "options": ["Red", "Orange", "Purple", "Brown"],
+        "answer": 0
+    },
+    {
+        "id": "L2",
+        "complexity": "low",
+        "text": "SAMPLE: How many days are there in a week?",
+        "options": ["Five", "Six", "Seven", "Eight"],
+        "answer": 2
+    },
+    {
+        "id": "L3",
+        "complexity": "low",
+        "text": "SAMPLE: What is the capital of France?",
+        "options": ["Paris", "Madrid", "Rome", "Berlin"],
+        "answer": 0
+    },
+
+    {
+        "id": "M1",
+        "complexity": "medium",
+        "text": "SAMPLE: What is 15% of 240?",
+        "options": ["24", "30", "36", "42"],
+        "answer": 2
+    },
+    {
+        "id": "M2",
+        "complexity": "medium",
+        "text": "SAMPLE: Which gas makes up most of Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+        "answer": 1
+    },
+    {
+        "id": "M3",
+        "complexity": "medium",
+        "text": "SAMPLE: Which data structure works on a first-in, first-out basis?",
+        "options": ["Stack", "Queue", "Tree", "Heap"],
+        "answer": 1
+    },
+    {
+        "id": "M4",
+        "complexity": "medium",
+        "text": "SAMPLE: What does HTTP status code 404 mean?",
+        "options": ["Server error", "Unauthorized", "Not found", "Redirect"],
+        "answer": 2
+    },
+
+    {
+        "id": "S1",
+        "complexity": "severe",
+        "text": "SAMPLE: What is the time complexity of binary search on a sorted array of n items?",
+        "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+        "answer": 1
+    },
+    {
+        "id": "S2",
+        "complexity": "severe",
+        "text": "SAMPLE: Which normal form removes transitive dependencies in a relational database?",
+        "options": ["First normal form", "Second normal form", "Third normal form", "None of these"],
+        "answer": 2
+    },
+    {
+        "id": "S3",
+        "complexity": "severe",
+        "text": "SAMPLE: During a network partition, the CAP theorem says you must choose between which two?",
+        "options": ["Consistency and availability", "Speed and cost", "Encryption and compression", "Latency and throughput"],
+        "answer": 0
+    },
+    {
+        "id": "S4",
+        "complexity": "severe",
+        "text": "SAMPLE: What is the derivative of x^3 with respect to x?",
+        "options": ["x^2", "3x", "3x^2", "x^3 / 3"],
+        "answer": 2
+    },
+    {
+        "id": "S5",
+        "complexity": "severe",
+        "text": "SAMPLE: Which layer of the OSI model does TCP belong to?",
+        "options": ["Network", "Transport", "Session", "Data link"],
+        "answer": 1
+    }
+]
